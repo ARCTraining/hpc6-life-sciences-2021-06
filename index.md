@@ -2,7 +2,9 @@
 ---
 
 Our aim in this workshop is to teach you basic concepts, skills, and tools for working
-with data so that they can get more done in less time, and with less pain. This workshop
+with data so that you can get more done in less time, and with less pain. 
+
+This workshop
 teaches data management and analysis for genomics and life sciences research including: 
 best practices for organization of bioinformatics projects and data, use of command-line 
 utilities, use of command-line tools to analyze sequence quality and
